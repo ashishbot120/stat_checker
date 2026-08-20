@@ -1,0 +1,9 @@
+backend/__pycache__/
+pipeline/__pycache__/
+pipeline/test-output/
+pipeline/benchmark/raw/
+pipeline/benchmark/parsed/
+frontend/.next/
+frontend/node_modules/
+.env.local
+Rlib/
